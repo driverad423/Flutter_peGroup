@@ -45,6 +45,8 @@ dependencies:
   dio: ^4.0.0
   flutter_polyline_points: ^0.2.6
   google_maps_flutter: ^2.0.2
+  image_picker: ^0.6.7+9
+  geolocator:
 
 
 dev_dependencies:
